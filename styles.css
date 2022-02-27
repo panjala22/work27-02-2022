@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    margin-top: 0;
+}
+h1{
+    text-align: center;
+    color: orangered;
+}
+head{
+    background-color: blue;
+}
+.menu {
+    width: 100vw; height: 10vh;
+    background-color: #333;
+  }
+.menu a{ 
+    float: left;
+    font-size: 25px; 
+    color: white;
+    text-align: center;
+    padding: 25px 80px;
+    text-decoration: none;}
+
+    #leftbox {
+    float:left; 
+    background-color: aquamarine;
+    width: 50%;
+    height:350px;}
+    #middlebox{
+        float:left; 
+        background-color: bisque;
+        width:50%;
+        height:350px;}
+      img{
+          border-radius: 50%;
+          width: 30%;
+          height: 75%;
+      }
